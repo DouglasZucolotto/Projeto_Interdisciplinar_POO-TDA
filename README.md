@@ -6,7 +6,7 @@ Curso: CST em Análise e Desenvolvimento de Sistemas (ADS)
 Semestres: 1º/2º matutino
 Campus: São Miguel Paulista
 Disciplinas Envolvidas: TDA – Técnicas de Desenvolvimento de Algoritmos (Prof. Alvaro) e POO – Programação Orientada a Objetos (Prof. Cleber)
-Apresentação/entrega: os detalhes serão divulgados pelo professor de cada disciplina, mas com limite de finalização até 01/11/2021.
+Apresentação/entrega: os detalhes serão divulgados pelo professor de cada disciplina, mas com limite de finalização até 10/11/2022.
 Grupos: entre 4 e 6 alunos.
 
 1- Motivação
